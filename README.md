@@ -1,2 +1,6 @@
-# parvezimampalash.github.io
-Parvez Imam Palash
+# parvezimam.github.io
+Website of Parvez Imam Palash
+
+```
+python jemdoc.py works.jemdoc reminiscence.jemdoc index.jemdoc contact.jemdoc
+```
